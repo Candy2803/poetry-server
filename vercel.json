@@ -1,15 +1,3 @@
-{
-  "version": 2,
-  "name": "test-vercel-flask",
-  "builds": [
-    {
-      "src": "*.py",
-      "use": "@liudonghua123/now-flask"
-    }
-  ],
-  "routes": [
-    { "src": "/.*", "dest": "/" }
-  ],
 
   {"orgId":"team_XSM0oxtZyBCuhAedZo1hS8OO","projectId":"prj_XujnY8jKNOSdMjdGXKBDZBMXIEIB"}
-}
+
